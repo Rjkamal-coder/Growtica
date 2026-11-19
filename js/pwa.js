@@ -9,10 +9,10 @@ function createInstallNotice() {
   const notice = document.createElement("aside");
   notice.id = "pwa-install-notice";
   notice.setAttribute("role", "region");
-  notice.setAttribute("aria-label", "Install My Daily Routine");
+  notice.setAttribute("aria-label", "Install Growtica");
   notice.innerHTML = `
     <div class="pwa-install-copy">
-      <strong>Install My Daily Routine</strong>
+      <strong>Install Growtica</strong>
       <span>Add the app to your home screen for quick access.</span>
     </div>
     <div class="pwa-install-actions">
