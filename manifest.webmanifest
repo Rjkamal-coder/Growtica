@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "My Daily Routine",
-  "short_name": "Daily Routine",
+  "name": "Growtica",
+  "short_name": "Growtica",
   "description": "Manage your daily routines, prayers, expenses, trading journal and personal progress.",
   "start_url": "./",
   "scope": "./",
